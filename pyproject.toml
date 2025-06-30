@@ -5,7 +5,7 @@ package-mode = false
 [tool.poetry.dependencies]
 python = "^3.12"
 twilio = "9.4.6"
-sendgrid = "6.11.0"
+sendgrid = "6.12.4"
 
 [build-system]
 requires = ["poetry-core"]
